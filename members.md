@@ -26,3 +26,16 @@ title: "Members"
 <h3 style="text-align: left;">
 	Visiting Scholars
 </h3>
+
+<h3 style="text-align: left;">
+	Alumni
+</h3>
+<p style="text-align: left;">
+<b>Jianyong Sun</b> MSc TU Delft, now research assistant with <a href="https://www4.mae.cuhk.edu.hk/peoples/chen-fei/">Prof. Fei Chen</a> at <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a>
+</p>
+<p style="text-align: left;">
+<b>Yulei Qiu</b> MSc TU Delft, incoming PhD student with full international scholarship at <a href="https://www.leeds.ac.uk/">University of Leeds</a> with <a href="https://eps.leeds.ac.uk/computing/staff/743/dr-mehmet-dogar">Prof. Mehmet Dogar</a>
+</p>
+<p style="text-align: left;">
+<b>Chai-Yu Tsai</b> MSc TU Delft, Engineer at <a href="https://www.asml.com/en">ASML</a> 
+</p>
