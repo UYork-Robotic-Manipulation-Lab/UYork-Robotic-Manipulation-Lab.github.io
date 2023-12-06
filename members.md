@@ -31,6 +31,9 @@ title: "Members"
 	Alumni
 </h3>
 <p style="text-align: left;">
+<b>Liman Wang</b> MSc York, worked on YOLO object detection and a survey on deformable object manipulation in caregiving.
+</p>
+<p style="text-align: left;">
 <b>Jianyong Sun</b> MSc TU Delft, now research assistant with <a href="https://www4.mae.cuhk.edu.hk/peoples/chen-fei/">Prof. Fei Chen</a> at <a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a>
 </p>
 <p style="text-align: left;">
