@@ -31,6 +31,20 @@ title: "Members"
 </p>
 
 <h3 style="text-align: left;">
+	PDRA
+</h3>
+<p style="text-align: left;">
+<b>Ioannis Stefanakos</b> obtained his PhD at York and is currently a member of the <a href="https://www.york.ac.uk/assuring-autonomy/">Assuring Autonomy International Programme (AAIP)</a>, he will work on the CRUK project for 50% FTE.
+</p>
+
+<h3 style="text-align: left;">
+	Robot Technician
+</h3>
+<!-- <p style="text-align: left;">
+<b>Dr. Tianyuan Wang</b> obtained his PhD at York, he will work on the CRUK project for 50% FTE as a techncian.
+</p> -->
+
+<h3 style="text-align: left;">
 	Visiting Scholars
 </h3>
 
