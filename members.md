@@ -27,22 +27,28 @@ title: "Members"
 	Doctoral Students
 </h3>
 <p style="text-align: left;">
-<b>John Bateman</b> is a doctoral student working on multi-expert imitation learning. He obtained his MEng at the University of York.
+<b>John Bateman</b> is a doctoral student working on multi-expert imitation learning with me and <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a>.  He obtained his MEng at the University of York with First Class Honours.
+</p>
+<p style="text-align: left;">
+<b>Sumaya Alsefri</b> is a doctoral student working on AI for assistive robots. She obtained her MSc in embedded systems at the University of Leeds with Distinction.
+</p>
+<p style="text-align: left;">
+<b>Jonathon Pipe</b> is an incoming (Sept 2024) doctoral student working on the robot chemist project with me, <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a> and <a href="https://www.york.ac.uk/chemistry/people/ifairlamb/">Prof. Ian Fairlamb</a>. He obtained his MSc in robotics at the University of Hull with Distinction.
 </p>
 
 <h3 style="text-align: left;">
 	PDRA
 </h3>
 <p style="text-align: left;">
-<b>Ioannis Stefanakos</b> obtained his PhD at York and is currently a member of the <a href="https://www.york.ac.uk/assuring-autonomy/">Assuring Autonomy International Programme (AAIP)</a>, he will work on the CRUK project for 50% FTE.
+<b>Dr. Ioannis Stefanakos</b> obtained his PhD at York and is currently a member of the <a href="https://www.york.ac.uk/assuring-autonomy/">Assuring Autonomy International Programme (AAIP)</a>, he works on the CRUK project for 50% FTE.
 </p>
 
 <h3 style="text-align: left;">
 	Robot Technician
 </h3>
-<!-- <p style="text-align: left;">
-<b>Dr. Tianyuan Wang</b> obtained his PhD at York, he will work on the CRUK project for 50% FTE as a techncian.
-</p> -->
+<p style="text-align: left;">
+<b>Dr. Tianyuan Wang</b> obtained his PhD at York, he works on the CRUK project for 50% FTE as a techncian.
+</p>
 
 <h3 style="text-align: left;">
 	Visiting Scholars
