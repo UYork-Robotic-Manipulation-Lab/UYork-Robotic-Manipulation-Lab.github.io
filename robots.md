@@ -2,6 +2,10 @@
 layout: page
 title: "Robots and other equipment"
 ---
+<h3 style="text-align: left;">
+	Robot-assisted Living Lab
+</h3>
+<img src="/assets/images/lab_image.jpg" alt="" width="900" height="600" />
 
 <h3 style="text-align: left;">
 	Franka Research 3 
