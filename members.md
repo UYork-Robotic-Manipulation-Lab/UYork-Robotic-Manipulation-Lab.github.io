@@ -36,6 +36,10 @@ title: "Members"
 <b>Jonathon Pipe</b> is an incoming (Sept 2024) doctoral student working on the robot chemist project with me, <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a> and <a href="https://www.york.ac.uk/chemistry/people/ifairlamb/">Prof. Ian Fairlamb</a>. He obtained his MSc in robotics at the University of Hull with Distinction.
 </p>
 
+<p style="text-align: left;">
+<b>Liman Wang</b> is an incoming (Sept 2024) doctoral student working on the LLM-based caregiving robots, she obtained her MSc in robotics at the University of York with Distinction.
+</p>
+
 <h3 style="text-align: left;">
 	PDRA
 </h3>

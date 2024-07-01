@@ -13,6 +13,11 @@ title: "Robots and other equipment"
 <img src="/assets/images/Franka_R3.jpg" alt="" width="300" height="200" />
 
 <h3 style="text-align: left;">
+	AgileX Tracer (with customised mounting for FR3)
+</h3> 
+<img src="/assets/images/AGX-tracer.png" alt="" width="300" height="200" />
+
+<h3 style="text-align: left;">
 	Qb Robotics Softhand Version 2 
 </h3>
 <img src="/assets/images/Qb_Softhand.png" alt="" width="200" height="200" />
@@ -31,3 +36,8 @@ title: "Robots and other equipment"
 	Gelsight Mini 
 </h3>
 <img src="/assets/images/gsmini.png" alt="" width="150" height="150" />
+
+<h3 style="text-align: left;">
+	Bota Systems F/T Sensor
+</h3> 
+<img src="/assets/images/FT_Sensor.jpg" alt="" width="300" height="200" />
