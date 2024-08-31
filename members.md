@@ -27,18 +27,29 @@ title: "Members"
 	Doctoral Students
 </h3>
 <p style="text-align: left;">
-<b>John Bateman</b> is a doctoral student working on multi-expert imitation learning with me and <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a>.  He obtained his MEng at the University of York with First Class Honours.
+<b>John Bateman (2023)</b> is a doctoral student working on multi-expert imitation learning with me and <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a>.  He obtained his MEng at the University of York with First Class Honours.
 </p>
 <p style="text-align: left;">
-<b>Sumaya Alsefri</b> is a doctoral student working on AI for assistive robots. She obtained her MSc in embedded systems at the University of Leeds with Distinction.
-</p>
-<p style="text-align: left;">
-<b>Jonathon Pipe</b> is an incoming (Sept 2024) doctoral student working on the robot chemist project with me, <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a> and <a href="https://www.york.ac.uk/chemistry/people/ifairlamb/">Prof. Ian Fairlamb</a>. He obtained his MSc in robotics at the University of Hull with Distinction.
+<b>Sumaya Alsefri (2024)</b> is a doctoral student working on AI for assistive robots. She obtained her MSc in embedded systems at the University of Leeds with Distinction.
 </p>
 
 <p style="text-align: left;">
-<b>Liman Wang</b> is an incoming (Sept 2024) doctoral student working on the LLM-based caregiving robots, she obtained her MSc in robotics at the University of York with Distinction.
+<b>Jonathon Pipe (2024)</b> is a doctoral student working on the robot chemist project with me, <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a> and <a href="https://www.york.ac.uk/chemistry/people/ifairlamb/">Prof. Ian Fairlamb</a>. He obtained his MSc in robotics at the University of Hull with Distinction.
 </p>
+
+<p style="text-align: left;">
+<b>Kefeng Huang (2024)</b> is a doctoral student working on the robot chemist project with me, <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a> and <a href="https://www.york.ac.uk/chemistry/people/ifairlamb/">Prof. Ian Fairlamb</a>. He obtained his MEng in Computer Science at UCL with First Class Honours.
+</p>
+
+<p style="text-align: left;">
+<b>Liman Wang (2024)</b> is a doctoral student working on the LLM-based caregiving robots, she obtained her MSc in robotics at the University of York with Distinction.
+</p>
+
+<p style="text-align: left;">
+<b>Jian Zhao (2024)</b> is a doctoral student working on Deformable Object Manipulation. He obtained his BEng and MSc at the prestigious Beijing Institute of Technology.
+</p>
+
+
 
 <h3 style="text-align: left;">
 	PDRA
