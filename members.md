@@ -27,10 +27,16 @@ title: "Members"
 	Doctoral Students
 </h3>
 <p style="text-align: left;">
+	<font color=red>
+		Disclaimer: I only list students that I am the main supervisor, whom I spend a significant amount of time and effort in guiding them. I do have students that I am secondary supervisor but until now I am more of a NPC in their supervision so they are not listed here. 
+	</font>
+</p>
+
+<p style="text-align: left;">
 <b>John Bateman (2023)</b> is a doctoral student working on multi-expert imitation learning with me and <a href="https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/">Prof. Andy Tyrrell</a>.  He obtained his MEng at the University of York with First Class Honours.
 </p>
 <p style="text-align: left;">
-<b>Sumaya Alsefri (2024)</b> is a doctoral student working on AI for assistive robots. She obtained her MSc in embedded systems at the University of Leeds with Distinction.
+<b>Sumaya Alsefri (2024)</b> is a doctoral student working on AI for assistive robots with me and <a href="https://www.york.ac.uk/physics-engineering-technology/people/hadieldaou/">Dr Hadi El Daou</a>. She obtained her MSc in embedded systems at the University of Leeds with Distinction.
 </p>
 
 <p style="text-align: left;">
