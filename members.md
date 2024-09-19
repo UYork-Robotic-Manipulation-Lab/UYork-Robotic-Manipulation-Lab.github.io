@@ -52,7 +52,7 @@ title: "Members"
 </p>
 
 <p style="text-align: left;">
-<b>Jian Zhao (2024)</b> is a doctoral student working on Deformable Object Manipulation. He obtained his BEng and MSc at the prestigious Beijing Institute of Technology.
+<b>Jian Zhao (2024)</b> is a doctoral student working on Deformable Object Manipulation. He obtained his BEng and MSc at the Beijing Institute of Technology.
 </p>
 
 
