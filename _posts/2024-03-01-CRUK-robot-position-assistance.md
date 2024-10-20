@@ -8,4 +8,4 @@ tags:
 - Assistive Robots
 - Bimanual Manipulation
 ---
-# More to come!
+**Project members**: Dr. Tianyuan Wang, Dr. Ioannis Stefanakos, [Dr.ir. Jihong Zhu](https://jihong-zhu.github.io/), and Dr. Roisin Bradley (York Hospital)

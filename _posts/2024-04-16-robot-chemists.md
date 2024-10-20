@@ -10,7 +10,7 @@ tags:
 ---
 # Project will start in Sept 2024!
 
-In collaboration with [Prof. Andy Tyrrell](https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/) and [Prof. Ian Fairlamb](https://www.york.ac.uk/chemistry/people/ifairlamb/).
+**Project members**: Kefeng Huang, Jonathon Pipe, [Dr.ir. Jihong Zhu](https://jihong-zhu.github.io/), [Prof. Andy Tyrrell](https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/) and [Prof. Ian Fairlamb](https://www.york.ac.uk/chemistry/people/ifairlamb/).
 
 Chemistry experimentation is fundamental to scientific research and development. Nevertheless, it often entails time-consuming, labour-intensive processes that are susceptible to human error. Robotic systems hold immense promise in transforming this field by automating and streamlining chemistry laboratory experiments. However, due to the intricate dexterity required, programming the behaviour through explicit instructions can be a formidable challenge. 
 
