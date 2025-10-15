@@ -70,10 +70,22 @@ title: "Members"
 <p style="text-align: left;">
 <b>Dr. Tianyuan Wang</b> obtained his PhD at York, he works on the CRUK project for 50% FTE as a techncian.
 </p>
+<p style="text-align: left;">
+<b>Dr. Yunlong Lian</b> obtained his PhD at York, he works on the CRUK project for 2 months as a techncian.
+</p>
 
 <h3 style="text-align: left;">
 	Visiting Scholars
 </h3>
+<p style="text-align: left;">
+<b>Jianqiang Chen (2024)</b> PhD student, University of Tokyo, worked on imitation learning.
+</p>
+<p style="text-align: left;">
+<b>Jiajun Ma (2025)</b> PhD student, Tongji University, worked on contact-rich object manipulation with Large-Language-Models.
+</p>
+<p style="text-align: left;">
+<b>Xiangze Wu (2025)</b> MRes student, Huazhong University of Science and Technology.
+</p>
 
 <h3 style="text-align: left;">
 	Alumni

@@ -5,7 +5,7 @@ post-image: ""
 description: "This project was supported by EPSRC DTP Account as one of the ALBERT CDT funded projects. In collaboration with Prof. Andy Tyrrell and Prof. Ian Fairlamb (Chemistry).
 "
 tags:
-- Assistive Robots
+- Robots for Chemistry
 - Bimanual Manipulation
 ---
 # Project will start in Sept 2024!
