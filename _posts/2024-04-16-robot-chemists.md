@@ -20,6 +20,7 @@ This research endeavour seeks to tap into human expertise and explore the potent
 ## Chemistry Manipulation Taxonomy <a name="TARMAC"></a>
 
 **paper currently under revision for [nature communication chemistry](https://www.nature.com/commschem/)**
+
 Laboratory automation has made well-defined experimental protocols increasingly executable by machines, yet the physical manipulations surrounding those protocols remain difficult to generalize. Setup, transfer, adjustment, assembly, and cleanup operations form a long tail of context-dependent actions that are typically handled manually or implemented as bespoke robotic skills for individual workflows and platforms.
 
 TARMAC is an empirical taxonomy of laboratory actions grounded in the analysis of instructional chemistry practice. Rather than prescribing a control framework, it emerges from a bottom-up decomposition of real laboratory manipulations into physically meaningful primitives organized by wrench dependence, actuation directness, and motion periodicity.
