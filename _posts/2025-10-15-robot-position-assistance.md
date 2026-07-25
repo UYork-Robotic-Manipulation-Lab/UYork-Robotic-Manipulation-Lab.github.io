@@ -14,6 +14,7 @@ Breast cancer is the most common type of cancer in the UK. About **12,000** wome
 
 To address this health inequality we are designing an **AI-enabled robotic systems** within breast screening facilities to assist elderly and disabled individuals in achieving proper positioning for screening examinations.
 
-<iframe width="560" height="480" src="https://zenodo.org/records/19348891?preview_file=Mammobot_demo.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Project Screenshot](/assets/images/Full_Sys_Mammobot.png)
+
 
 
