@@ -14,3 +14,17 @@ Handling hazardous materials, such as those in air-sensitive chemistry, presents
 
 The project will culminate in an end-to-end demonstration of the system successfully performing chemistry experiment procedure remotely. By de-risking this core technology, S-TORCH will provide a powerful platform for securing major follow-on funding and lay the groundwork for the future of safer, more accessible, and AI-enabled chemical laboratories.
 
+# List of Research
+1. [Chemistry Manipulation Taxonomy](#TARMAC)
+
+## Chemistry Manipulation Taxonomy <a name="TARMAC"></a>
+
+**paper currently under revision for [nature communication chemistry](https://www.nature.com/commschem/)**
+
+Laboratory automation has made well-defined experimental protocols increasingly executable by machines, yet the physical manipulations surrounding those protocols remain difficult to generalize. Setup, transfer, adjustment, assembly, and cleanup operations form a long tail of context-dependent actions that are typically handled manually or implemented as bespoke robotic skills for individual workflows and platforms.
+
+TARMAC is an empirical taxonomy of laboratory actions grounded in the analysis of instructional chemistry practice. Rather than prescribing a control framework, it emerges from a bottom-up decomposition of real laboratory manipulations into physically meaningful primitives organized by wrench dependence, actuation directness, and motion periodicity.
+
+Across the experimental contexts examined, the majority of actions can be expressed as compositions of a finite and reusable set of primitives. This structure provides a basis for organizing, comparing, and reusing manipulation capabilities across experimental workflows.
+
+More information: [https://tarmac-paper.github.io/#resources](https://tarmac-paper.github.io/#resources)
